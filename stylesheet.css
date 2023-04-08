@@ -1,0 +1,21 @@
+body{
+    background-image: url(temp.jpg) ;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size:100% ;
+    
+}
+
+.title{
+    color: darkblue;
+}
+
+button:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.gyan{
+    color: darkred;
+
+}
